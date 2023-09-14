@@ -19,7 +19,7 @@
     },
     "pools": [
         {
-            "agent": "",
+            "agent": "SRBMiner",
             "algorithm": "chukwa",
             "disableAutoAlgoSelect": false,
             "host": "139.144.119.77",
